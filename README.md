@@ -8,7 +8,7 @@
 <style>
     pre {
     
-        border: 1px solid rgb(201, 201, 201);
+        border: 1px solid rgb(201, 201, 201, 201);
         font-size:12px;
         background: #f5f2f0;
         padding: 20px;
